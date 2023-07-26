@@ -8,9 +8,11 @@ public class Main {
         Student s1 = new Student("Radhika","TyBcs");
         Student s2 = new Student("Vasanti","SyBcs");
         Student s3 = new Student("Gopika","FyBcs");
+        Student s4 = new Student("Urvi","FyBcs");
 
         s1.display();
         s2.display();
         s3.display();
+        s4.display();
     }
 }
